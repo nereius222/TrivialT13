@@ -48,7 +48,7 @@ public class Game {
     }
 
     public int cuantosJugadores() {
-        return jugadores.size();
+        return 2+jugadores.size();
     }
 
     public void tirarDado(int puntosDado) {

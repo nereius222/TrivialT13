@@ -28,8 +28,6 @@ public class GameLauncher {
                 noGanador = juego.fueRespuestaCorrecta();
             }
 
-
-
         } while (noGanador);
 
     }
